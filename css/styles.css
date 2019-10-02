@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5px 20px;
+}
+
+li {
+    border: 1px solid #999;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.checkButton {
+    margin-right: 5px;
+    margin-top: 10px;
+}
